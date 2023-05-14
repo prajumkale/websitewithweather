@@ -24,6 +24,6 @@ var icon= document.getElementById("icon")
         });
         
 
-        //Weather//
+        
         
         
